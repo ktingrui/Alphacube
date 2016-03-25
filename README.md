@@ -1,6 +1,6 @@
-# Alphacube
-#Members  
-Walking
-Ting-Jui
-Liszt
-Jesse
+### Alphacube
+### Members  
+* Walking
+* Ting-Jui
+* Liszt
+* Jesse
